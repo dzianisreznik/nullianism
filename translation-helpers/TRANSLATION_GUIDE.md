@@ -218,7 +218,8 @@ Before submitting:
 | 50   | lt  | Lithuanian              | Lietuvių         | 3                  |
 | 51   | lv  | Latvian                 | Latviešu         | 2                  |
 | 52   | mk  | Macedonian              | Македонски       | 2                  |
-| 53   | et  | Estonian                | Eesti            | 1                  |
-| 54   | be  | Belarusian              | Беларуская       | 1                  |
-| 55   | la  | Latin                   | Latina           | 0.5                |
-| 56   | is  | Icelandic               | Íslenska         | 0.33               |
+| 53   | eo  | Esperanto               | Esperanto        | 2                  |
+| 54   | et  | Estonian                | Eesti            | 1                  |
+| 55   | be  | Belarusian              | Беларуская       | 1                  |
+| 56   | la  | Latin                   | Latina           | 0.5                |
+| 57   | is  | Icelandic               | Íslenska         | 0.33               |

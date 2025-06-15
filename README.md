@@ -63,6 +63,7 @@
     <a href="docs/tt/README.md">Татарча</a> ·
     <a href="docs/ug/README.md">ئۇيغۇرچە</a> ·
     <a href="docs/az/README.md">Azərbaycanca</a> ·
+    <a href="docs/eo/README.md">Esperanto</a> ·
   </p>
 
   <p align="center">

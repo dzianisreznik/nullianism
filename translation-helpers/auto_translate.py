@@ -70,6 +70,8 @@ NULLIAN_TRANSLATIONS: Dict[str, str] = {
     "et": "Nullianlus",
     "is": "Nullíni",         
     "la": "Nullianitas",
+    "eo": "Nullianismo",
+    
 
     # Anatolia & Caucasus
     "tr": "Nullianlık",
@@ -176,6 +178,7 @@ LANGUAGE_NAMES: Dict[str, str] = {
     "tt": "Tatar",
     "ug": "Uyghur",
     "az": "Azerbaijani",
+    "eo": "Esperanto",
 }
 
 BACKUP_SUFFIX = ".bak"
